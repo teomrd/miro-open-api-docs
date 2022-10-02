@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmiro_open_api_docs=self.webpackChunkmiro_open_api_docs||[]).push([[9126],{98940:o=>{o.exports=JSON.parse('{"permalink":"/miro-open-api-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

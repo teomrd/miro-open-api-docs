@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmiro_open_api_docs=self.webpackChunkmiro_open_api_docs||[]).push([[3499],{71484:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/miro-open-api-docs/blog/tags/docusaurus","allTagsPath":"/miro-open-api-docs/blog/tags","count":4}')}}]);
